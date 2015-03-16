@@ -1,7 +1,6 @@
 #django-flash-message
 
 -------------------------------
-
 usage:
 
     set the DJANGO_FLASH_MESSAGE_STORAGE in settings.py
