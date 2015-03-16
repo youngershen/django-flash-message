@@ -34,7 +34,8 @@ setup(name='django-flash-message',
       zip_safe=True,
       install_requires=[
           # -*- Extra requirements: -*-
-          'Django >= 1.6'
+          'Django >= 1.6',
+          'python-cjson'
       ],
       entry_points="""
       # -*- Entry points: -*-
